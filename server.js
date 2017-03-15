@@ -69,7 +69,7 @@ var ServerCommands = {
 		if (err) throw err;
 	}
 };
-ServerCommands.CHANNELMESSAGE = "channelmessage",
+ServerCommands.CHANNELMESSAGE = "channelmessage", 
 ServerCommands.CV = "cv",
 ServerCommands.LOGIN = "login", 
 ServerCommands.PICTURE ="picture",
